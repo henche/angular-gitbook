@@ -1,3 +1,7 @@
+---
+description: Comandos básicos para instalar y crear nuestro primer proyecto
+---
+
 # Uso Angular CLI
 
 Angular CLI es una herramienta de interfaz de línea de comandos que se usa para inicializar, desarrollar, andamiar \(scaffolding\) y mantener aplicaciones angular. Puede usar la herramienta directamente en un shell de comandos, o indirectamente a través de una interfaz de usuario interactiva, como Angular Console.
